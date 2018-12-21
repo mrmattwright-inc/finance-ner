@@ -16,3 +16,10 @@ Trader 1: Es . . . especially on the IMM, on the 19th I have 7 yards.
 That's barely understandle to a human that doesn't know finance. A machine without specific training has no chance to understand this. So we built a Named Entity Recognizer just for finance, so people can make sense of it all. 
 
 FYI: 1 Yard = 1 Billion Dollars of notional. Someone once told me this is you don't get a 'Billion' confussed with 'A Million' when yelling across the trading floor, which Investopedia confirms. I guess that was an expensive mistake once upon a time. 
+
+## Installation
+
+We use the very handy pipenv to manage dependencies and environments. `pip install pipenv` if you haven't. Then run `pipenv install` to install all dependencies. 
+
+## Retrieving Data
+
